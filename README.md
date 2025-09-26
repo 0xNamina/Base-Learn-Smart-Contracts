@@ -4,7 +4,7 @@ This is a collection of Solidity smart contracts for learning purposes on Base S
 
 ## 📋 Contract List
 
-1. [01-BasicMath](https://github.com/0xNamina/Based) - Basic mathematical operations with overflow/underflow handling
+1. [01-BasicMath](https://github.com/0xNamina/BasicMath) - Basic mathematical operations with overflow/underflow handling
 2. [02-ControlStructures](https://github.com/0xNamina/ControlStructures) - Control structures implementation with FizzBuzz and time-based notifications
 3. [03-EmployeeStorage](https://github.com/0xNamina/EmployeeStorage) - Employee data storage with gas-optimized packing
 4. [04-ArraysExercise](https://github.com/0xNamina/ArraysExercise) - Array operations and timestamp filtering after Y2K
